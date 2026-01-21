@@ -1,5 +1,3 @@
-package Forest;
-
 import Forest.Animals.Dog;
 import Forest.Animals.Lion;
 import Forest.Interfaces.Animal;

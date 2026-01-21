@@ -1,4 +1,4 @@
-package Forest.Interfaces;
+package Interfaces;
 
 public interface Animal {
 

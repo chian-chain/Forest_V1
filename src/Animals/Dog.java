@@ -1,4 +1,4 @@
-package Forest.Animals;
+package Animals;
 
 import Forest.Interfaces.Animal;
 

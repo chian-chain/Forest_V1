@@ -1,5 +1,3 @@
-package Forest;
-
 import Forest.Interfaces.Ranger;
 
 public class ForestServiceProvider {
