@@ -1,4 +1,4 @@
-import Forest.Interfaces.Ranger;
+import Interfaces.Ranger;
 
 public class ForestServiceProvider {
 

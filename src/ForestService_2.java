@@ -1,5 +1,5 @@
-import Forest.Interfaces.Animal;
-import Forest.Interfaces.Ranger;
+import Interfaces.Animal;
+import Interfaces.Ranger;
 
 class ForestService_2 implements Ranger {
     @Override

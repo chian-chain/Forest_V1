@@ -1,6 +1,6 @@
 package Animals;
 
-import Forest.Interfaces.Animal;
+import Interfaces.Animal;
 
 public class Dog extends Lion implements Animal {
     @Override

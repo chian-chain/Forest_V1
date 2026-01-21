@@ -1,6 +1,6 @@
 package Animals;
 
-import Forest.Interfaces.Animal;
+import Interfaces.Animal;
 
 public class Lion implements Animal {
 

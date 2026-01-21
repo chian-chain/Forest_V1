@@ -1,6 +1,6 @@
-import Forest.Animals.Dog;
-import Forest.Animals.Lion;
-import Forest.Interfaces.Animal;
+import Animals.Dog;
+import Animals.Lion;
+import Interfaces.Animal;
 
 public class AnimalFactory {
     public static Animal getAnimal (String type) {
