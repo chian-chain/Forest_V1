@@ -4,7 +4,7 @@ import Interfaces.Ranger;
 class ForestService_2 implements Ranger {
     @Override
     public void listenAnimalVoice(Animal animal) {
-        System.out.print("Animal is speaking: ");
+        System.out.print("Animal is speaking alone: ");
         animal.speak();
     }
 
