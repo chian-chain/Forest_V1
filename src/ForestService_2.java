@@ -7,4 +7,12 @@ class ForestService_2 implements Ranger {
         System.out.print("Animal is speaking: ");
         animal.speak();
     }
+
+    @Override
+    public void callSleepCommand(Animal animal) {
+        System.out.println("Animal is going to sleep...");
+        animal.sleep();
+    }
+
+
 }

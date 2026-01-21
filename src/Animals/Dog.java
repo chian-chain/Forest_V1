@@ -7,4 +7,9 @@ public class Dog extends Lion implements Animal {
     public void speak() {
         System.out.println("barking...");
     }
+
+    @Override
+    public void sleep() {
+        System.out.println("Zzzzz......");
+    }
 }
